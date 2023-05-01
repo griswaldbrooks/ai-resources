@@ -13,7 +13,7 @@
   - https://vicuna.lmsys.org/
   - https://github.com/lm-sys/FastChat
 - stablevicuna
-  - ![Video](https://img.youtube.com/vi/QeBmeHg8s5Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=QeBmeHg8s5Y)
+  - [![Video](https://img.youtube.com/vi/QeBmeHg8s5Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=QeBmeHg8s5Y)
   - https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot
   - https://huggingface.co/spaces/CarperAI/StableVicuna
 
@@ -24,20 +24,20 @@
 - minigpt
   - https://minigpt-4.github.io/
   - https://github.com/Vision-CAIR/MiniGPT-4
-  - ![Video](https://img.youtube.com/vi/hNAFuuXYL58/maxresdefault.jpg)](https://www.youtube.com/watch?v=hNAFuuXYL58)
+  - [![Video](https://img.youtube.com/vi/hNAFuuXYL58/maxresdefault.jpg)](https://www.youtube.com/watch?v=hNAFuuXYL58)
 
 ## images
 - automatic111
   - https://github.com/AUTOMATIC1111/stable-diffusion-webui
 - controlnet
-  - ![Video](https://img.youtube.com/vi/OxFcIv8Gq8o/maxresdefault.jpg)](https://youtu.be/OxFcIv8Gq8o)
+  - [![Video](https://img.youtube.com/vi/OxFcIv8Gq8o/maxresdefault.jpg)](https://youtu.be/OxFcIv8Gq8o)
   - https://civitai.com/models/9251
   - https://www.reddit.com/r/StableDiffusion/comments/119o71b/a1111_controlnet_extension_explained_like_youre_5/
   - https://github.com/Mikubill/sd-webui-controlnet
-  - ![Video](https://img.youtube.com/vi/9v4lBexN_Mg/maxresdefault.jpg)](https://youtu.be/9v4lBexN_Mg)
+  - [![Video](https://img.youtube.com/vi/9v4lBexN_Mg/maxresdefault.jpg)](https://youtu.be/9v4lBexN_Mg)
 - instruct pix2pix
   - https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/7205
-  - ![Video](https://img.youtube.com/vi/ln1RMEPKx3Q/maxresdefault.jpg)](https://youtu.be/ln1RMEPKx3Q)
+  - [![Video](https://img.youtube.com/vi/ln1RMEPKx3Q/maxresdefault.jpg)](https://youtu.be/ln1RMEPKx3Q)
 
 ## embodied ai
 - huggingpt
