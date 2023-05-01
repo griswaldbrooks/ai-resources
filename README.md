@@ -26,7 +26,7 @@
   - https://github.com/Vision-CAIR/MiniGPT-4
   - [![Video](https://img.youtube.com/vi/hNAFuuXYL58/maxresdefault.jpg)](https://www.youtube.com/watch?v=hNAFuuXYL58)
 
-## images
+## image generation
 - automatic111
   - https://github.com/AUTOMATIC1111/stable-diffusion-webui
 - controlnet
@@ -73,8 +73,10 @@
 
 ## vision
 - neural radiance fields
+  - https://wandb.ai/sweep/nerf/reports/NeRF-%E2%80%93-Representing-Scenes-as-Neural-Radiance-Fields-for-View-Synthesis--Vmlldzo3ODIzMA
   - nerfies
     - https://nerfies.github.io/
+    - https://github.com/google/nerfies
   - instant nerf
     - https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/
 - segment anything
