@@ -40,6 +40,7 @@
     - https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/7205
     - [![Video](https://img.youtube.com/vi/ln1RMEPKx3Q/maxresdefault.jpg)](https://youtu.be/ln1RMEPKx3Q)
 - https://beta.dreamstudio.ai/
+- https://www.midjourney.com/
 
 ## embodied ai
 - huggingpt
