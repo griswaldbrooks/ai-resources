@@ -36,6 +36,8 @@
     - https://www.reddit.com/r/StableDiffusion/comments/119o71b/a1111_controlnet_extension_explained_like_youre_5/
     - https://github.com/Mikubill/sd-webui-controlnet
     - [![Video](https://img.youtube.com/vi/9v4lBexN_Mg/maxresdefault.jpg)](https://youtu.be/9v4lBexN_Mg)
+  - multi controlnet
+    - [![Video](https://img.youtube.com/vi/MDHC7E6G1RA/maxresdefault.jpg)](https://youtu.be/MDHC7E6G1RA)
   - instruct pix2pix
     - https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/7205
     - [![Video](https://img.youtube.com/vi/ln1RMEPKx3Q/maxresdefault.jpg)](https://youtu.be/ln1RMEPKx3Q)
