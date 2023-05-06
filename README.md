@@ -79,6 +79,8 @@
   - https://github.com/openai/whisper
 - bark
   - https://github.com/suno-ai/bark
+- elevenlabs
+  - https://beta.elevenlabs.io/sign-up
 
 ## vision
 - neural radiance fields
@@ -101,6 +103,7 @@
 ## tools
 - search
   - https://www.phind.com/
+  - https://www.perplexity.ai/
 - video to text, summary, chapters, etc
   - https://www.assemblyai.com/playground/source
 - video editing/generation tools
@@ -119,7 +122,26 @@
 - https://github.com/isl-org/Open3D-ML
 
 ## biology
-- https://www.nvidia.com/en-us/gpu-cloud/bionemo/
+- bionemo
+  - https://www.nvidia.com/en-us/gpu-cloud/bionemo/
+- BANDIT
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6863850/
+- DeepViral
+  - https://academic.oup.com/bioinformatics/article/37/17/2722/6158034
+- CEBRA
+  - https://github.com/AdaptiveMotorControlLab/CEBRA
+- Kipoi: Model zoo for genomics
+  - https://github.com/kipoi/kipoi
+- GROBID (GeneRation Of BIbliographic Data)
+  - https://github.com/kermitt2/grobid
+- ImDrug: A Benchmark for Deep Imbalanced Learning in AI-aided Drug Discovery
+  - https://github.com/DrugLT/ImDrug
+- ppi-predicting
+  - https://github.com/semmelweis-pharmacology/ppi_pred
+- Drug Repurposing Knowledge Graph (DRKG)
+  - https://github.com/gnn4dr/DRKG
+- drugprot-evaluation-library
+  - https://github.com/tonifuc3m/drugprot-evaluation-library
 
 ## fun things
 - character.ai
@@ -128,5 +150,7 @@
   - https://infinityarcade.com/
   - https://infinityarcade.com/any-thing-you-want-here
   - https://github.com/themaximal1st/InfinityArcade
+- ai rougelite 
+  - https://store.steampowered.com/app/1889620/AI_Roguelite/
 - sarcastic robot
   - [![Video](https://img.youtube.com/vi/PgT8tPChbqc/maxresdefault.jpg)](https://youtu.be/PgT8tPChbqc)
