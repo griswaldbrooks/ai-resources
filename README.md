@@ -114,6 +114,8 @@
   - https://github.com/openai/chatgpt-retrieval-plugin/tree/main
 - annotation tools
   - https://labelbox.com/
+- charater creation
+  - https://leonardo.ai/
   
 ## hosting
 - https://www.runpod.io/
