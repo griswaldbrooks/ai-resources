@@ -90,6 +90,10 @@
     - https://github.com/google/nerfies
   - instant nerf
     - https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/
+  - neural graphics primitives library
+    - https://github.com/NVlabs/instant-ngp
+  - nerf slam
+    - https://github.com/ToniRV/NeRF-SLAM
 - segment anything
   - https://segment-anything.com/
   - https://github.com/facebookresearch/segment-anything
