@@ -108,6 +108,8 @@
 - search
   - https://www.phind.com/
   - https://www.perplexity.ai/
+- local private search
+  - [![Video](https://img.youtube.com/vi/A3F5riM5BNE/maxresdefault.jpg)](https://youtu.be/A3F5riM5BNE)
 - video to text, summary, chapters, etc
   - https://www.assemblyai.com/playground/source
 - video editing/generation tools
